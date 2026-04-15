@@ -1,0 +1,101 @@
+scenario_id,intent,tone,generated_email,fact_recall,tone_accuracy,conciseness,overall
+1,Request approval for a budget increase on a marketing campaign,formal,"Subject: Request for Additional Marketing Campaign Budget
+
+Hello [Manager Name],
+
+I am writing to request approval for an increase to our marketing campaign budget. The campaign is currently funded at $25,000, and I am pleased to report that lead volume has increased by 38% over the last six weeks, exceeding our initial targets.
+
+To capitalize on this momentum, I propose allocating an additional $8,000 specifically for paid LinkedIn ads, which have shown the strongest conversion rates among our channels. Approval is needed by Thursday to avoid any interruption to the campaign's scheduled placements.
+
+Best regards,
+[Your Name]",1.0,0.92,1.0,0.9733
+2,Notify an employee about a policy training deadline,clear and formal,"Subject: Reminder: Mandatory Security Policy Training Due May 3
+
+Hello [Employee Name],
+
+This is a reminder that the mandatory security policy training must be completed by May 3. The course takes approximately 45 minutes and is a requirement for annual compliance.
+
+You can access the training through the learning portal at your convenience. Please prioritize completion by the deadline to ensure your compliance record remains current.
+
+Regards,
+[Your Name]",1.0,0.88,1.0,0.96
+3,Follow up with a client after a support issue was resolved,empathetic,"Subject: Follow-Up on Your Resolved Login Issue
+
+Dear [Client Name],
+
+I wanted to reach out regarding the login issue your team experienced. The problem was resolved on Monday afternoon after our investigation confirmed that the root cause was an expired authentication token.
+
+To prevent this from happening again, we have implemented monitoring that will alert our team immediately if the issue reoccurs. If you or your team have any remaining concerns, please do not hesitate to reach out — we are here to help.
+
+Sincerely,
+[Your Name]",1.0,0.95,1.0,0.9833
+4,Ask a vendor to expedite a hardware shipment,urgent,"Subject: Urgent: Request to Expedite Shipment for PO-18427
+
+Hello [Vendor Name],
+
+I am reaching out regarding order PO-18427, currently scheduled for delivery on April 28. We need this equipment on-site ahead of our site launch on May 1, and the current timeline puts our preparations at risk.
+
+Please confirm today whether expedited shipping is possible. Your prompt response will help us finalize our launch planning and avoid delays.
+
+Best,
+[Your Name]",0.75,0.9,1.0,0.8833
+5,Announce a new internal hiring referral bonus,enthusiastic,"Subject: Exciting Update: Referral Bonus Increase for Engineering & Product Roles
+
+Hello Team,
+
+We are thrilled to announce an update to our employee referral program! Starting June 1, the referral bonus will increase from $1,000 to $1,500 for successful hires in full-time engineering and product roles.
+
+If you know talented individuals who would be a great fit, please submit your referrals through the careers portal. Your help in bringing top talent to the team is greatly appreciated!
+
+Best regards,
+[Your Name]",0.75,0.93,1.0,0.8933
+6,Respond to a customer requesting an invoice correction,professional and apologetic,"Subject: Correction to Invoice INV-9021
+
+Dear [Customer Name],
+
+Thank you for bringing the billing address issue to our attention. We sincerely apologize for the inconvenience with invoice INV-9021.
+
+We are updating the billing address to your Chicago office and will send a corrected invoice within one business day. Please let us know if there is anything else we can assist you with.
+
+Kind regards,
+[Your Name]",1.0,0.91,1.0,0.97
+7,Remind a cross-functional team to submit quarterly updates,direct,"Subject: Reminder: Quarterly Updates Due Friday at 5:00 PM
+
+Hello Team,
+
+Please submit your quarterly updates by 5:00 PM on Friday. Each function should include major wins, key risks, and priorities for next quarter.
+
+These updates will be incorporated into the executive review deck, so please use the shared template to maintain consistency. Timely submissions help us prepare a complete picture for the leadership review.
+
+Thanks,
+[Your Name]",1.0,0.87,1.0,0.9567
+8,Inform a manager about planned time off,polite,"Subject: Time Off Request: July 15–19
+
+Hello [Manager Name],
+
+I would like to request time off from July 15 through July 19. I will ensure that all current deliverables are completed before the leave begins, and Priya has kindly agreed to cover any urgent requests during my absence.
+
+Could you please confirm approval for these dates? I am happy to discuss any handover details if needed.
+
+Best regards,
+[Your Name]",1.0,0.9,1.0,0.9667
+9,Invite stakeholders to a product demo,friendly,"Subject: You're Invited: Analytics Dashboard Demo — Wednesday at 3:30 PM
+
+Hi Team,
+
+You are invited to a product demo on Wednesday at 3:30 PM where we will be showcasing the new analytics dashboard. Colleagues from product, sales, and customer success teams are all welcome to join.
+
+If you have questions or specific topics you would like us to cover, please send them in advance so we can tailor the session to your needs.
+
+Looking forward to seeing you there!
+[Your Name]",1.0,0.94,1.0,0.98
+10,Escalate a delayed contract review to legal,firm and professional,"Subject: Urgent: Status Update Required on Pending Contract Review
+
+Hello Legal Team,
+
+I am following up on the client contract that has been pending legal review for 12 days. The client expects a final response by Monday, and the only remaining issue is the indemnity clause.
+
+Please provide an updated review status today so we can respond to the client appropriately and avoid further delay.
+
+Regards,
+[Your Name]",1.0,0.89,1.0,0.9633

@@ -1,0 +1,112 @@
+[
+  {
+    "intent": "Request approval for a budget increase on a marketing campaign",
+    "facts": [
+      "The current campaign budget is $25,000.",
+      "Lead volume has increased by 38% over the last six weeks.",
+      "An additional $8,000 would be used for paid LinkedIn ads.",
+      "Approval is needed by Thursday to avoid interrupting the campaign."
+    ],
+    "tone": "formal",
+    "human_reference_email": "Subject: Request for Approval of Additional Marketing Budget\n\nHello [Manager Name],\n\nI would like to request approval for an increase to our current marketing campaign budget. The campaign is currently funded at $25,000, and lead volume has increased by 38% over the last six weeks.\n\nTo build on that momentum, I am requesting an additional $8,000 to expand our paid LinkedIn advertising. Approval by Thursday would help us avoid any interruption to the campaign.\n\nBest regards,\n[Your Name]"
+  },
+  {
+    "intent": "Notify an employee about a policy training deadline",
+    "facts": [
+      "The mandatory security policy training is due on May 3.",
+      "The course takes approximately 45 minutes.",
+      "Completion is required for annual compliance.",
+      "Employees can access the course through the learning portal."
+    ],
+    "tone": "clear and formal",
+    "human_reference_email": "Subject: Reminder: Mandatory Security Policy Training Due May 3\n\nHello [Employee Name],\n\nThis is a reminder that the mandatory security policy training must be completed by May 3. The course takes approximately 45 minutes and is required as part of annual compliance.\n\nYou can access the training through the learning portal at your convenience. Please complete it by the deadline to ensure your compliance record is up to date.\n\nRegards,\n[Your Name]"
+  },
+  {
+    "intent": "Follow up with a client after a support issue was resolved",
+    "facts": [
+      "The login issue was resolved on Monday afternoon.",
+      "The root cause was an expired authentication token.",
+      "Monitoring has been added to alert the team if the issue reoccurs.",
+      "Invite the client to share any remaining concerns."
+    ],
+    "tone": "empathetic",
+    "human_reference_email": "Subject: Follow-Up on Your Resolved Login Issue\n\nDear [Client Name],\n\nI wanted to follow up regarding the login issue your team experienced. The problem was resolved on Monday afternoon, and our review confirmed that the root cause was an expired authentication token.\n\nTo reduce the risk of recurrence, we have added monitoring that will alert our team if the issue appears again. If you or your team have any remaining concerns, please let us know and we will be happy to help.\n\nSincerely,\n[Your Name]"
+  },
+  {
+    "intent": "Ask a vendor to expedite a hardware shipment",
+    "facts": [
+      "The order number is PO-18427.",
+      "The original delivery date is April 28.",
+      "The equipment is required for a site launch on May 1.",
+      "Request confirmation today if expedited shipping is possible."
+    ],
+    "tone": "urgent",
+    "human_reference_email": "Subject: Urgent Request to Expedite Shipment for PO-18427\n\nHello [Vendor Name],\n\nI am reaching out regarding order PO-18427, which is currently scheduled for delivery on April 28. We need this equipment in place for a site launch on May 1, so the timing is critical.\n\nPlease let us know today whether expedited shipping is possible. Your prompt confirmation will help us finalize launch planning.\n\nBest,\n[Your Name]"
+  },
+  {
+    "intent": "Announce a new internal hiring referral bonus",
+    "facts": [
+      "The referral bonus will increase from $1,000 to $1,500.",
+      "The change is effective June 1.",
+      "The updated bonus applies to full-time engineering and product roles.",
+      "Employees should submit referrals through the careers portal."
+    ],
+    "tone": "enthusiastic",
+    "human_reference_email": "Subject: New Referral Bonus for Engineering and Product Hiring\n\nHello Team,\n\nWe are excited to share an update to our employee referral program. Starting June 1, the referral bonus will increase from $1,000 to $1,500 for eligible hires in full-time engineering and product roles.\n\nIf you know strong candidates, please submit your referrals through the careers portal. Thank you for helping us grow the team with great talent.\n\nBest regards,\n[Your Name]"
+  },
+  {
+    "intent": "Respond to a customer requesting an invoice correction",
+    "facts": [
+      "The invoice number is INV-9021.",
+      "The billing address needs to be updated to the Chicago office.",
+      "A corrected invoice will be sent within one business day.",
+      "Apologize for the inconvenience."
+    ],
+    "tone": "professional and apologetic",
+    "human_reference_email": "Subject: Update on Invoice INV-9021\n\nDear [Customer Name],\n\nThank you for bringing this to our attention. We apologize for the inconvenience with invoice INV-9021. We will update the billing address to your Chicago office and send a corrected invoice within one business day.\n\nPlease let us know if there is anything else you need in the meantime.\n\nKind regards,\n[Your Name]"
+  },
+  {
+    "intent": "Remind a cross-functional team to submit quarterly updates",
+    "facts": [
+      "Quarterly updates are due by 5:00 PM on Friday.",
+      "Each function should include major wins, risks, and next-quarter priorities.",
+      "The updates will be used in the executive review deck.",
+      "Submit updates in the shared template."
+    ],
+    "tone": "direct",
+    "human_reference_email": "Subject: Reminder: Quarterly Updates Due Friday at 5:00 PM\n\nHello Team,\n\nPlease submit your quarterly updates by 5:00 PM on Friday. Each function should cover major wins, key risks, and priorities for next quarter.\n\nThese updates will be used in the executive review deck, so please complete them in the shared template to keep the format consistent.\n\nThanks,\n[Your Name]"
+  },
+  {
+    "intent": "Inform a manager about planned time off",
+    "facts": [
+      "The requested leave dates are July 15 through July 19.",
+      "All current deliverables will be completed before the leave begins.",
+      "Priya will cover urgent requests during the absence.",
+      "Ask the manager to confirm approval."
+    ],
+    "tone": "polite",
+    "human_reference_email": "Subject: Request for Time Off Approval: July 15 to July 19\n\nHello [Manager Name],\n\nI would like to request time off from July 15 through July 19. I will ensure that all current deliverables are completed before the leave begins, and Priya has agreed to cover any urgent requests while I am away.\n\nPlease let me know if you approve these dates.\n\nBest regards,\n[Your Name]"
+  },
+  {
+    "intent": "Invite stakeholders to a product demo",
+    "facts": [
+      "The demo is scheduled for Wednesday at 3:30 PM.",
+      "The session will showcase the new analytics dashboard.",
+      "Product, sales, and customer success teams are invited.",
+      "Ask attendees to send questions in advance."
+    ],
+    "tone": "friendly",
+    "human_reference_email": "Subject: Invitation: Analytics Dashboard Demo on Wednesday\n\nHi Team,\n\nYou are invited to a product demo on Wednesday at 3:30 PM. We will be showcasing the new analytics dashboard, and colleagues from product, sales, and customer success are all welcome to join.\n\nIf you already have questions or topics you would like covered, please send them in advance so we can make the session as useful as possible.\n\nBest,\n[Your Name]"
+  },
+  {
+    "intent": "Escalate a delayed contract review to legal",
+    "facts": [
+      "The client contract has been pending legal review for 12 days.",
+      "The client expects a final response by Monday.",
+      "The remaining issue is the indemnity clause.",
+      "Request an updated review status today."
+    ],
+    "tone": "firm and professional",
+    "human_reference_email": "Subject: Request for Urgent Status Update on Pending Contract Review\n\nHello Legal Team,\n\nI am following up on the client contract that has now been pending legal review for 12 days. The client expects a final response by Monday, and the only remaining issue appears to be the indemnity clause.\n\nPlease share an updated review status today so we can respond appropriately and avoid further delay.\n\nRegards,\n[Your Name]"
+  }
+]

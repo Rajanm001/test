@@ -1,0 +1,81 @@
+scenario_id,intent,tone,generated_email,fact_recall,tone_accuracy,conciseness,overall
+1,Request approval for a budget increase on a marketing campaign,formal,"Subject: Budget Increase Request for Marketing Campaign
+
+Hello,
+
+I wanted to discuss increasing our marketing campaign budget. We are currently at $25,000 and the lead volume has gone up by 38% in the last six weeks. I believe we should add $8,000 for LinkedIn advertising to keep the momentum going. It would be great if we could get this approved by Thursday so there is no gap in the campaign.
+
+Thank you,
+[Your Name]",0.5,0.78,1.0,0.76
+2,Notify an employee about a policy training deadline,clear and formal,"Subject: Security Training Reminder
+
+Hi,
+
+Just a quick reminder about the mandatory security policy training. It needs to be done by May 3 and takes about 45 minutes. This is part of our annual compliance requirements, so please make sure to complete it through the learning portal before the deadline.
+
+Thanks,
+[Your Name]",0.25,0.73,1.0,0.66
+3,Follow up with a client after a support issue was resolved,empathetic,"Subject: Following Up on the Login Issue
+
+Hi [Client Name],
+
+I wanted to check in about the login issue from earlier. It was fixed on Monday afternoon and the cause turned out to be an expired authentication token. We have set up alerts so we will know right away if it happens again. Let us know if you have any other concerns or questions.
+
+Thanks,
+[Your Name]",0.5,0.82,1.0,0.7733
+4,Ask a vendor to expedite a hardware shipment,urgent,"Subject: Need Faster Delivery for PO-18427
+
+Hello,
+
+We have order PO-18427 coming in on April 28, but we actually need it before May 1 because of a site launch. Can you check if expedited shipping is an option? Please let us know today if possible.
+
+Thanks,
+[Your Name]",0.5,0.76,1.0,0.7533
+5,Announce a new internal hiring referral bonus,enthusiastic,"Subject: Referral Bonus Update
+
+Hi everyone,
+
+Good news — starting June 1, the employee referral bonus is going up from $1,000 to $1,500 for engineering and product roles. If you know anyone who might be a good fit, submit your referrals through the careers portal.
+
+Thanks!
+[Your Name]",0.5,0.8,1.0,0.7667
+6,Respond to a customer requesting an invoice correction,professional and apologetic,"Subject: Invoice INV-9021 Update
+
+Hello,
+
+We received your note about the billing address on invoice INV-9021. Sorry about that. We will update it to the Chicago office address and have a corrected invoice to you within one business day.
+
+Let us know if you need anything else.
+[Your Name]",0.75,0.79,1.0,0.8467
+7,Remind a cross-functional team to submit quarterly updates,direct,"Subject: Submit Your Quarterly Updates
+
+Hi Team,
+
+Quarterly updates are due by 5:00 PM on Friday. Please cover your major wins, risks, and priorities for next quarter. Use the shared template since these will go into the executive review deck.
+
+Thanks,
+[Your Name]",1.0,0.74,1.0,0.9133
+8,Inform a manager about planned time off,polite,"Subject: Time Off Request
+
+Hi [Manager Name],
+
+I would like to take time off from July 15 to July 19. I will finish my current work before then, and Priya can handle anything urgent while I am out. Please let me know if that works.
+
+Thanks,
+[Your Name]",0.0,0.77,1.0,0.59
+9,Invite stakeholders to a product demo,friendly,"Subject: Product Demo Invite — Wednesday
+
+Hi everyone,
+
+We are hosting a demo of the new analytics dashboard on Wednesday at 3:30 PM. Anyone from product, sales, or customer success is welcome to attend. If you have questions you would like covered, send them ahead of time.
+
+See you there!
+[Your Name]",0.75,0.81,1.0,0.8533
+10,Escalate a delayed contract review to legal,firm and professional,"Subject: Follow-Up: Pending Contract Review
+
+Hello,
+
+The client contract has been with legal for 12 days now, and the client is expecting a response by Monday. The main open item is the indemnity clause. Could you provide an update on where things stand today?
+
+Thank you,
+[Your Name]",0.5,0.75,1.0,0.75
